@@ -1,0 +1,7 @@
+.gendercheck{
+    width: 500px;
+}
+
+.gendercheck , input{
+    width: 50px;
+}

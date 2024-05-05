@@ -1,0 +1,20 @@
+#category_main{
+    height:auto;
+    width:600px;
+    
+    
+}
+.category_part{
+    height:150px;
+    width:200px;
+    
+    float: left;
+}
+
+.service_container{
+    display: flex;
+    position: relative;
+    margin-left: 30%;
+    justify-content: center;
+    text-align: center;
+}
